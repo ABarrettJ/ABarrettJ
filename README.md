@@ -5,16 +5,16 @@
 I'm a full-stack software engineer with a unique journey into the tech world. Before I discovered my passion for coding, I was applying my analytical skills in the field of signals intelligence and electronic warfare with the U.S. Marine Corps.
 
 ## 🧰 Toolbox
-My current toolbox includes:
-- <img src="images/skill_icons/python.svg" alt="Python" width="16" height="16"> Python
-- <img src="images/skill_icons/javascript.svg" alt="JavaScript" width="16" height="16"> JavaScript
-- <img src="images/skill_icons/react.svg" alt="React" width="16" height="16"> React
-- <img src="images/skill_icons/django.svg" alt="Django" width="16" height="16"> Django 4
-- <img src="images/skill_icons/postgresql.svg" alt="PostgreSQL" width="16" height="16"> PostgreSQL
-- <img src="images/skill_icons/fastapi.svg" alt="FastAPI" width="16" height="16"> FastAPI
-- <img src="images/skill_icons/docker.svg" alt="Docker" width="16" height="16"> Docker
-- <img src="images/skill_icons/html5.svg" alt="HTML 5" width="16" height="16"> HTML 5
-- <img src="images/skill_icons/css3.svg" alt="CSS 3" width="16" height="16"> CSS 3
+My current toolbox includes:<br/>
+<img src="images/skill_icons/python.svg" alt="Python" width="24" height="24"> Python<br/>
+<img src="images/skill_icons/javascript.svg" alt="JavaScript" width="24" height="24"> JavaScript<br/>
+<img src="images/skill_icons/react.svg" alt="React" width="24" height="24"> React<br/>
+<img src="images/skill_icons/django.svg" alt="Django" width="24" height="24"> Django 4<br/>
+<img src="images/skill_icons/postgresql.svg" alt="PostgreSQL" width="24" height="24"> PostgreSQL<br/>
+<img src="images/skill_icons/fastapi.svg" alt="FastAPI" width="24" height="24"> FastAPI<br/>
+<img src="images/skill_icons/docker.svg" alt="Docker" width="24" height="24"> Docker<br/>
+<img src="images/skill_icons/html5.svg" alt="HTML 5" width="24" height="24"> HTML 5<br/>
+<img src="images/skill_icons/css3.svg" alt="CSS 3" width="24" height="24"> CSS 3
 
 I've also had hands-on experience with CI/CD practices, microservices architecture, and Agile methodologies. But I know the tech world is always changing, and I'm excited to continue learning and growing, always ready to dive into new languages and frameworks.
 
