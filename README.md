@@ -1,5 +1,4 @@
 ![Header](images/header.png)
-# 👋 Hi there, I'm Austin
 
 ## 🚀 About Me
 I'm a full-stack software engineer with a unique journey into the tech world. Before I discovered my passion for coding, I was applying my analytical skills in the field of signals intelligence and electronic warfare with the U.S. Marine Corps.
